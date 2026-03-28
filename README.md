@@ -62,7 +62,7 @@ syncmaster/
 
 **GUI Version**
 ```bash
-git clone https://github.com/kanishk-io/syncmaster.git
+git clone https://github.com/kanishk-io/sync-master-OS.git
 cd syncmaster
 python SyncMasterGUI.py
 ```
